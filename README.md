@@ -55,6 +55,6 @@ The above button launches the latest stable version of SwaySwap. To launch the l
   <img alt="preview pages" width="800" src="docs/assets/preview-pages.gif">
 </p>
 
-## License
+## License.
 
 The primary license for this repo is `Apache-2.0`, see [`LICENSE`](./LICENSE).
